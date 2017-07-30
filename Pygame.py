@@ -1,7 +1,7 @@
 
 #pygame program to move a ball around a box based on keyboard input
 #start date: febuary 9th 2016
-#William Doyle
+#William 
 #Google will be used
 
 import pygame
