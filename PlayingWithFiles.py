@@ -1,4 +1,4 @@
-#William Doyle... Febuary 8th 2016
+#William... Febuary 8th 2016
 
 #program will show
 #1. how to creat a .txt file
